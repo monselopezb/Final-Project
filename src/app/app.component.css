@@ -2,13 +2,14 @@
   body{
 
     text-align: center;
-    background-color: dimgrey;
-    font-size: 35px;
-    font-family: Arial;
+    background-color:#3081e8;
+    font-size:35px;
+    font-family:'Times New Roman', Times, serif;
+  }
     
-    Actividades{
-    
-    
+    .Actividades{
+text-align: center;
+  
     }
     div{
     text-align:center;
